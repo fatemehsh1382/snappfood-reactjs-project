@@ -5207,61 +5207,91 @@
     {
       "id": 1,
       "title": "رستوران",
-      "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/desktop_1_603508bf202d8_img_st_food.png",
+      "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/restaurant-desktop.png",
       "href": "/resturants"
     },
     {
       "id": 2,
       "title": "سوپرمارکت",
-      "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/desktop_4_603508a14ab73_img_st_supermarket.png",
+      "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/supermarket-desktop.png",
       "href": "/supermarket"
     },
     {
       "id": 3,
       "title": "کافه",
-      "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/desktop_2_603508b330711_img_st_cafe.png",
+      "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/cafe-desktop.png",
       "href": "/cafe"
     },
     {
       "id": 4,
       "title": "شیرینی",
-      "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/desktop_3_603508a95b9be_img_st_sweet.png",
+      "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/confectionary-desktop.png",
       "href": "/sweet"
     },
     {
       "id": 5,
       "title": "نانوایی",
-      "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/desktop_5_60350898c61b5_img_st_bakery.png",
+      "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/bread-desktop.png",
       "href": "/bakery"
     },
     {
       "id": 6,
       "title": "میوه",
-      "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/desktop_6_6035088cbcde4_img_st_fruit.png",
+      "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/fruit-desktop.png",
       "href": "/fruit"
     },
     {
       "id": 7,
       "title": "پروتئین",
-      "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/desktop_11_603507afc9a32_img_st_meat.png",
+      "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/protein-desktop.png",
       "href": "/meat"
     },
     {
       "id": 8,
       "title": "آبمیوه بستنی",
-      "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/desktop_8_6035087b463a3_img_st_icecream.png",
+      "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/icecream-desktop.png",
       "href": "/"
     },
     {
       "id": 9,
-      "title": "آجیل",
-      "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/desktop_7_60350883d6e43_img_st_nut.png",
-      "href": "/icecream"
+      "title": "لبنیات",
+      "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/dairy-desktop.png",
+      "href": "/dairy"
     },
     {
       "id": 10,
+      "title": "گل و گیاه",
+      "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/flower-desktop.png",
+      "href": "/flower"
+    },
+    {
+      "id": 11,
+      "title": "قهوه و شکلات",
+      "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/coffe-desktop.png",
+      "href": "/coffee_and_chocolate"
+    },
+    {
+      "id": 12,
+      "title": "آجیل",
+      "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/nuts-desktop.png",
+      "href": "/icecream"
+    },
+    {
+      "id": 13,
+    "title": "عطاری",
+    "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/attari-desktop.png",
+    "href": "/attari"
+    },
+    {
+      "id": 14,
+    "title": "سلامت و زیبایی",
+    "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/beauti-desktop.png",
+    "href": "/pharmacy"
+    },
+    {
+      "id": 15,
       "title": "سایر",
-      "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/desktop_9_603b811b1d540_img_st_other2.png",
+      "img": "https://cdn.snappfood.ir/uploads/images/review-app/icons/count/other-desktop.png",
       "href": "/other"
     }
   ],

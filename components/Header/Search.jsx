@@ -14,8 +14,8 @@ function Search({restaurants}) {
     let searchIn
 
     params.restaurant && (searchIn=restaurants[params.restaurant-1].name)
-    pathname=="/" && (searchIn = "اسنپ‌فود")
-    pathname=="/resturants" && (searchIn="رستوران")
+    pathname==="/" && (searchIn = "اسنپ‌فود")
+    pathname==="/resturants" && (searchIn="رستوران")
 
 
     const dispatch=useDispatch()
