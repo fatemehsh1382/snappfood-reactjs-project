@@ -48,12 +48,12 @@ function OrderInvoiceModal() {
                 </div>
                 <div>
                     <div className='h-12 box-border px-4 border-b-border-xs border-b-carbon-alphaLight flex justify-between items-center'>
-                        <span className='text-carbon-main font-iransans text-sm inline-block'>پیتزا مخصوص مینی</span>
+                        <span className='text-carbon-main font-iransans text-sm inline-block'>استرامبولی گوشت و پنیر</span>
                         <div className='flex flex-row-reverse items-center'>
                             <div className='mr-0.5 flex flex-col'>
                                 <div className='mr-0.5 flex items-center'>
                                     <div className='mr-0.5 flex flex-col items-start'>
-                                        <span className='mr-0.5 text-carbon-main font-bold font-iransans text-sm inline-block'> ۵۰,۰۰۰ 
+                                        <span className='mr-0.5 text-carbon-main font-bold font-iransans text-sm inline-block'> ۲۳۲,۰۰۰
                                             <span className='mr-0.5 text-carbon-light font-iransans text-xs inline-block'>تومان</span>
                                         </span>
                                     </div>
@@ -69,7 +69,7 @@ function OrderInvoiceModal() {
                     <div className=' flex flex-col'>
                         <div className=' flex items-center'>
                             <div className=' flex flex-col items-start'>
-                                <span className=' text-carbon-main font-iransans text-sm inline-block'>  ۸۸,۰۰۰  
+                                <span className=' text-carbon-main font-iransans text-sm inline-block'>  ۵۸۶,۰۰۰
                                     <span className='mr-0.5 text-carbon-light font-iransans text-xs inline-block'>تومان</span>
                                 </span>
                             </div>
@@ -81,8 +81,8 @@ function OrderInvoiceModal() {
                     <div className=' flex flex-col'>
                         <div className=' flex items-center'>
                             <div className=' flex flex-col items-start'>
-                                <span className=' text-carbon-main font-iransans text-sm inline-block'>  ۸۸,۰۰۰  
-                                    <span className='mr-0.5 text-carbon-light font-iransans text-xs inline-block'>تومان</span>
+                                <span className=' text-carbon-main font-iransans text-sm inline-block'> رایگان
+                                    <span className='mr-0.5 text-carbon-light font-iransans text-xs inline-block'></span>
                                 </span>
                             </div>
                         </div>
@@ -93,7 +93,7 @@ function OrderInvoiceModal() {
                     <div className=' flex flex-col'>
                         <div className=' flex items-center'>
                             <div className=' flex flex-col items-start'>
-                                <span className='text-accent-main font-iransans text-sm inline-block'>  ۸۸,۰۰۰  
+                                <span className='text-accent-main font-iransans text-sm inline-block'>  ۷۴,۰۰۰
                                     <span className='mr-0.5 text-carbon-light font-iransans text-xs inline-block'>تومان</span>
                                 </span>
                             </div>
@@ -105,7 +105,7 @@ function OrderInvoiceModal() {
                     <div className=' flex flex-col'>
                         <div className=' flex items-center'>
                             <div className=' flex flex-col items-start'>
-                                <span className='text-carbon-main font-iransans font-bold text-sm inline-block'>  ۸۸,۰۰۰  
+                                <span className='text-carbon-main font-iransans font-bold text-sm inline-block'>  ۵۱۲,۰۰۰
                                     <span className='mr-0.5 text-carbon-main font-iransans text-xs inline-block'>تومان</span>
                                 </span>
                             </div>
