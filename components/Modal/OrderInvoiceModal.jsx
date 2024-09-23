@@ -115,7 +115,7 @@ function OrderInvoiceModal() {
                 <div className='m-3'>
                     <div className='box-border mt-3 p-3 rounded-lg shadow-shadows-small flex justify-between items-center border-border-xs border-surface-dark'>
                         <div className='flex items-baseline'>
-                            <p className='ml-1 text-carbon-main font-iransans font-bold text-base inline-block'>۸۰</p>
+                            <p className='ml-1 text-carbon-main font-iransans font-bold text-base inline-block'>۱۰۰</p>
                             <p className=' text-carbon-main font-iransans text-xs inline-block'>امتیاز دریافت کرده‌اید</p>
                         </div>
                         <img src="/icons/modal/club-badge.svg" alt="" className='mr-1'/>
